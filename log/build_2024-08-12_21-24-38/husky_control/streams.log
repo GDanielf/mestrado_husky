@@ -1,0 +1,59 @@
+[0.016s] Invoking command in '/home/gdaniel/husky_ws/build/husky_control': CMAKE_PREFIX_PATH=/home/gdaniel/husky_ws/install/husky_description:/home/gdaniel/mestrado_ws/install:/home/gdaniel/mestrado_ws/install/husky_desktop:/home/gdaniel/mestrado_ws/install/husky_viz:/home/gdaniel/mestrado_ws/install/husky_simulator:/home/gdaniel/mestrado_ws/install/husky_robot:/home/gdaniel/mestrado_ws/install/husky_bringup:/home/gdaniel/mestrado_ws/install/husky_base:/home/gdaniel/mestrado_ws/install/husky_msgs:/home/gdaniel/mestrado_ws/install/husky_gazebo:/home/gdaniel/mestrado_ws/install/husky_control:/home/gdaniel/mestrado_ws/install/husky_description:/home/gdaniel/husky_ws/install/husky_desktop:/home/gdaniel/husky_ws/install/husky_viz:/home/gdaniel/husky_ws/install/husky_simulator:/home/gdaniel/husky_ws/install/husky_robot:/home/gdaniel/husky_ws/install/husky_bringup:/home/gdaniel/husky_ws/install/husky_base:/home/gdaniel/husky_ws/install/husky_msgs:/home/gdaniel/husky_ws/install/husky_gazebo:/home/gdaniel/husky_ws/install/husky_control:/opt/ros/foxy /usr/bin/cmake /home/gdaniel/husky_ws/src/husky/husky_control -DCMAKE_INSTALL_PREFIX=/home/gdaniel/husky_ws/install/husky_control
+[0.074s] -- The C compiler identification is GNU 9.4.0
+[0.144s] -- The CXX compiler identification is GNU 9.4.0
+[0.165s] -- Check for working C compiler: /usr/bin/cc
+[0.223s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.224s] -- Detecting C compiler ABI info
+[0.280s] -- Detecting C compiler ABI info - done
+[0.286s] -- Detecting C compile features
+[0.287s] -- Detecting C compile features - done
+[0.288s] -- Check for working CXX compiler: /usr/bin/c++
+[0.353s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.354s] -- Detecting CXX compiler ABI info
+[0.420s] -- Detecting CXX compiler ABI info - done
+[0.427s] -- Detecting CXX compile features
+[0.427s] -- Detecting CXX compile features - done
+[0.429s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.445s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.445s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.605s] -- Configuring done
+[0.608s] -- Generating done
+[0.609s] -- Build files have been written to: /home/gdaniel/husky_ws/build/husky_control
+[0.612s] Invoked command in '/home/gdaniel/husky_ws/build/husky_control' returned '0': CMAKE_PREFIX_PATH=/home/gdaniel/husky_ws/install/husky_description:/home/gdaniel/mestrado_ws/install:/home/gdaniel/mestrado_ws/install/husky_desktop:/home/gdaniel/mestrado_ws/install/husky_viz:/home/gdaniel/mestrado_ws/install/husky_simulator:/home/gdaniel/mestrado_ws/install/husky_robot:/home/gdaniel/mestrado_ws/install/husky_bringup:/home/gdaniel/mestrado_ws/install/husky_base:/home/gdaniel/mestrado_ws/install/husky_msgs:/home/gdaniel/mestrado_ws/install/husky_gazebo:/home/gdaniel/mestrado_ws/install/husky_control:/home/gdaniel/mestrado_ws/install/husky_description:/home/gdaniel/husky_ws/install/husky_desktop:/home/gdaniel/husky_ws/install/husky_viz:/home/gdaniel/husky_ws/install/husky_simulator:/home/gdaniel/husky_ws/install/husky_robot:/home/gdaniel/husky_ws/install/husky_bringup:/home/gdaniel/husky_ws/install/husky_base:/home/gdaniel/husky_ws/install/husky_msgs:/home/gdaniel/husky_ws/install/husky_gazebo:/home/gdaniel/husky_ws/install/husky_control:/opt/ros/foxy /usr/bin/cmake /home/gdaniel/husky_ws/src/husky/husky_control -DCMAKE_INSTALL_PREFIX=/home/gdaniel/husky_ws/install/husky_control
+[0.614s] Invoking command in '/home/gdaniel/husky_ws/build/husky_control': CMAKE_PREFIX_PATH=/home/gdaniel/husky_ws/install/husky_description:/home/gdaniel/mestrado_ws/install:/home/gdaniel/mestrado_ws/install/husky_desktop:/home/gdaniel/mestrado_ws/install/husky_viz:/home/gdaniel/mestrado_ws/install/husky_simulator:/home/gdaniel/mestrado_ws/install/husky_robot:/home/gdaniel/mestrado_ws/install/husky_bringup:/home/gdaniel/mestrado_ws/install/husky_base:/home/gdaniel/mestrado_ws/install/husky_msgs:/home/gdaniel/mestrado_ws/install/husky_gazebo:/home/gdaniel/mestrado_ws/install/husky_control:/home/gdaniel/mestrado_ws/install/husky_description:/home/gdaniel/husky_ws/install/husky_desktop:/home/gdaniel/husky_ws/install/husky_viz:/home/gdaniel/husky_ws/install/husky_simulator:/home/gdaniel/husky_ws/install/husky_robot:/home/gdaniel/husky_ws/install/husky_bringup:/home/gdaniel/husky_ws/install/husky_base:/home/gdaniel/husky_ws/install/husky_msgs:/home/gdaniel/husky_ws/install/husky_gazebo:/home/gdaniel/husky_ws/install/husky_control:/opt/ros/foxy /usr/bin/cmake --build /home/gdaniel/husky_ws/build/husky_control -- -j16 -l16
+[0.639s] Invoked command in '/home/gdaniel/husky_ws/build/husky_control' returned '0': CMAKE_PREFIX_PATH=/home/gdaniel/husky_ws/install/husky_description:/home/gdaniel/mestrado_ws/install:/home/gdaniel/mestrado_ws/install/husky_desktop:/home/gdaniel/mestrado_ws/install/husky_viz:/home/gdaniel/mestrado_ws/install/husky_simulator:/home/gdaniel/mestrado_ws/install/husky_robot:/home/gdaniel/mestrado_ws/install/husky_bringup:/home/gdaniel/mestrado_ws/install/husky_base:/home/gdaniel/mestrado_ws/install/husky_msgs:/home/gdaniel/mestrado_ws/install/husky_gazebo:/home/gdaniel/mestrado_ws/install/husky_control:/home/gdaniel/mestrado_ws/install/husky_description:/home/gdaniel/husky_ws/install/husky_desktop:/home/gdaniel/husky_ws/install/husky_viz:/home/gdaniel/husky_ws/install/husky_simulator:/home/gdaniel/husky_ws/install/husky_robot:/home/gdaniel/husky_ws/install/husky_bringup:/home/gdaniel/husky_ws/install/husky_base:/home/gdaniel/husky_ws/install/husky_msgs:/home/gdaniel/husky_ws/install/husky_gazebo:/home/gdaniel/husky_ws/install/husky_control:/opt/ros/foxy /usr/bin/cmake --build /home/gdaniel/husky_ws/build/husky_control -- -j16 -l16
+[0.654s] Invoking command in '/home/gdaniel/husky_ws/build/husky_control': CMAKE_PREFIX_PATH=/home/gdaniel/husky_ws/install/husky_description:/home/gdaniel/mestrado_ws/install:/home/gdaniel/mestrado_ws/install/husky_desktop:/home/gdaniel/mestrado_ws/install/husky_viz:/home/gdaniel/mestrado_ws/install/husky_simulator:/home/gdaniel/mestrado_ws/install/husky_robot:/home/gdaniel/mestrado_ws/install/husky_bringup:/home/gdaniel/mestrado_ws/install/husky_base:/home/gdaniel/mestrado_ws/install/husky_msgs:/home/gdaniel/mestrado_ws/install/husky_gazebo:/home/gdaniel/mestrado_ws/install/husky_control:/home/gdaniel/mestrado_ws/install/husky_description:/home/gdaniel/husky_ws/install/husky_desktop:/home/gdaniel/husky_ws/install/husky_viz:/home/gdaniel/husky_ws/install/husky_simulator:/home/gdaniel/husky_ws/install/husky_robot:/home/gdaniel/husky_ws/install/husky_bringup:/home/gdaniel/husky_ws/install/husky_base:/home/gdaniel/husky_ws/install/husky_msgs:/home/gdaniel/husky_ws/install/husky_gazebo:/home/gdaniel/husky_ws/install/husky_control:/opt/ros/foxy /usr/bin/cmake --install /home/gdaniel/husky_ws/build/husky_control
+[0.658s] -- Install configuration: ""
+[0.659s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config
+[0.659s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config/teleop_interactive_markers.yaml
+[0.659s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config/twist_mux.yaml
+[0.660s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config/empty.yaml
+[0.660s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config/control.yaml
+[0.660s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config/teleop_ps4.yaml
+[0.660s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config/teleop_logitech.yaml
+[0.660s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config/imu_filter.yaml
+[0.660s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config/localization.yaml
+[0.660s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config/gazebo_interface.yaml
+[0.660s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/config/public_interface.yaml
+[0.661s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/launch
+[0.661s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/launch/teleop_base.launch.py
+[0.661s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/launch/control.launch.py
+[0.661s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/launch/control.launch
+[0.661s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/launch/teleop.launch
+[0.661s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/launch/teleop_joy.launch.py
+[0.662s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/ament_index/resource_index/package_run_dependencies/husky_control
+[0.662s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/ament_index/resource_index/parent_prefix_path/husky_control
+[0.662s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/environment/ament_prefix_path.sh
+[0.663s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/environment/ament_prefix_path.dsv
+[0.663s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/environment/path.sh
+[0.663s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/environment/path.dsv
+[0.663s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/local_setup.bash
+[0.663s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/local_setup.sh
+[0.664s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/local_setup.zsh
+[0.664s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/local_setup.dsv
+[0.664s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/package.dsv
+[0.664s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/ament_index/resource_index/packages/husky_control
+[0.664s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/cmake/husky_controlConfig.cmake
+[0.665s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/cmake/husky_controlConfig-version.cmake
+[0.666s] -- Installing: /home/gdaniel/husky_ws/install/husky_control/share/husky_control/package.xml
+[0.673s] Invoked command in '/home/gdaniel/husky_ws/build/husky_control' returned '0': CMAKE_PREFIX_PATH=/home/gdaniel/husky_ws/install/husky_description:/home/gdaniel/mestrado_ws/install:/home/gdaniel/mestrado_ws/install/husky_desktop:/home/gdaniel/mestrado_ws/install/husky_viz:/home/gdaniel/mestrado_ws/install/husky_simulator:/home/gdaniel/mestrado_ws/install/husky_robot:/home/gdaniel/mestrado_ws/install/husky_bringup:/home/gdaniel/mestrado_ws/install/husky_base:/home/gdaniel/mestrado_ws/install/husky_msgs:/home/gdaniel/mestrado_ws/install/husky_gazebo:/home/gdaniel/mestrado_ws/install/husky_control:/home/gdaniel/mestrado_ws/install/husky_description:/home/gdaniel/husky_ws/install/husky_desktop:/home/gdaniel/husky_ws/install/husky_viz:/home/gdaniel/husky_ws/install/husky_simulator:/home/gdaniel/husky_ws/install/husky_robot:/home/gdaniel/husky_ws/install/husky_bringup:/home/gdaniel/husky_ws/install/husky_base:/home/gdaniel/husky_ws/install/husky_msgs:/home/gdaniel/husky_ws/install/husky_gazebo:/home/gdaniel/husky_ws/install/husky_control:/opt/ros/foxy /usr/bin/cmake --install /home/gdaniel/husky_ws/build/husky_control
